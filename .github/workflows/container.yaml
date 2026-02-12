@@ -1,4 +1,4 @@
-name: Mrigakshi Test
+name: Container Scan
 
 on:
   push:
@@ -29,4 +29,4 @@ jobs:
           soft_fail: true
           upload_results: true
           generate_sbom: true
-          project_name: "Project Test"
+          project_name: "Mrigakshi Test"
