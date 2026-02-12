@@ -1,4 +1,4 @@
-name: AccuKnox Container Scan Workflow Test
+name: Mrigakshi Test
 
 on:
   push:
